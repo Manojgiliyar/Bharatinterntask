@@ -1,2 +1,2 @@
-# Bharatinterntask
+# Bharatinterntasks
 Internship Tasks
